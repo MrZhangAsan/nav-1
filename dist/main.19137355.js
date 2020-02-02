@@ -182,4 +182,4 @@ $(document).on('keypress', function (e) {
   }
 });
 },{}]},{},["epB2"], null)
-//# sourceMappingURL=https://mrzhangasan.github.io/nav-1/dist/main.19137355.js.map
+//# sourceMappingURL=main.19137355.js.map
